@@ -5,8 +5,6 @@ let w4 = 'ua';
 
 console.log(w1,w2,w3,w4);
 
-
-
 let e=1;
 let f=10;
 let g=-999;
