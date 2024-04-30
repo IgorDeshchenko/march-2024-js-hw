@@ -23,7 +23,7 @@ console.log(e,f,g,h,i,j,k,l,m);
 let firstName = 'Ігор';
 let middleName = 'Олександрович';
 let lastName = 'Дещенко';
-result = `${firstName} ${middleName} ${lastName}`;
+let result = `${firstName} ${middleName} ${lastName}`;
 
 console.log(result);
 
